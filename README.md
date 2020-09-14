@@ -1,4 +1,4 @@
-# Python-Classification-Web-app
+# Penguin-Classification-Web-app
 In python (Streamlit)<br>
 
 penguin dataset consists of following columns:<br>
